@@ -15,6 +15,7 @@ public class GitPrueba {
      */
     public static void main(String[] args) {
         System.out.println("Voy a empezar de 0");
+        System.out.println("Segunda prueba");
     }
     
 }
