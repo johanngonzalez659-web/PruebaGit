@@ -19,6 +19,7 @@ public class GitPrueba {
         System.out.println("tercer prueba");
         System.out.println("Cuarta prueba");
         System.out.println("Quinta prueba");
+        System.out.println("Sexta prueba");
     }
     
 }
