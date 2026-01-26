@@ -1,2 +1,3 @@
 Esto es un fichero de prueba
 HOLA
+ADIOS
