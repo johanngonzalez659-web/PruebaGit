@@ -11,5 +11,6 @@ package gitprueba;
 public class prueba2 {
     public static void main(String[] args) {
         System.out.println("A?ado una nueva clase");
+        System.out.println("Empezado la prueba2");
     }
 }
